@@ -1,7 +1,7 @@
 name: Christian Ulstrup
 favicon: null
-layout_spectrum: 0.39189694193191826
-typography_spectrum: 0.08100622752681375
+layout_spectrum: 0.50632
+typography_spectrum: 0.43023
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.10628296341747046
-  lightness: 0.03071663505397737
-  saturation: 0.3020539430435747
-  rhythmicContrast: 0.32672455278225243
+  brandStrength: 0.25
+  lightness: 0.1875
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
